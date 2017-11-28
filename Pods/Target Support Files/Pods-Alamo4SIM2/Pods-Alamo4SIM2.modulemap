@@ -1,0 +1,6 @@
+framework module Pods_Alamo4SIM2 {
+  umbrella header "Pods-Alamo4SIM2-umbrella.h"
+
+  export *
+  module * { export * }
+}
